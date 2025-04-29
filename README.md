@@ -66,7 +66,8 @@ To develop and evaluate a Decision Tree model capable of predicting student drop
 - Test model with real-time or cross-institutional data
 
 ## 📁 File Structure
-decision-tree/ ├── decision_tree_model.ipynb # Jupyter notebook with full analysis, preprocessing, and model
+decision-tree/
+├── decision_tree_model.ipynb # Jupyter notebook with full analysis, preprocessing, and model
 ├── README.md # This file – project overview and documentation
 ├── README.docx # Full report with visuals and extended explanations
 ├── data/ # Dataset folder (cleaned or raw CSVs go here)
